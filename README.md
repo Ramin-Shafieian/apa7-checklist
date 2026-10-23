@@ -2,7 +2,7 @@
 
 An interactive checklist for reviewing citations and reference lists against the *Publication Manual of the American Psychological Association* (7th ed.).
 
-**Use it online:** https://rshafieian-ctrl.github.io/apa7-checklist/
+**Use it online:** https://ramin-shafieian.github.io/apa7-checklist/
 
 - Tick items as you review your draft; progress is saved automatically in your browser.
 - Section links and per-section progress on wide screens.
